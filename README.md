@@ -7,7 +7,7 @@ Projeto desenvolvido durante a Imersão Java.
 
 ## Desenvolvimento
 
-<p>Esse projeto foi desenvolvido utilizando a sintaxe básica do Java, e conceitos como Estrutura condicionais e de repetição.</p>
+<p></p>
 
 ## Projeto
 
